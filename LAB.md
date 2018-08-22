@@ -10,7 +10,7 @@ Complete [today's Kata.](https://www.codewars.com/kata/fixme-replace-all-dots)
 Create a ipsum viewer/editor that:
 
 * Displays a lists of ipsum's and when an ipsum is clicked, it populates a detail view with full information.
-* The Detail has an edit button that toggles to a form and allows editing the text
+* The Detail has an edit button that toggles to a form and allows editing. Includes sample text in html
 * Add an input form and button for a title that adds a new ipsum and makes it the selected item. 
 (BONUS: Can you get the detail to switch to edit mode?)
 
