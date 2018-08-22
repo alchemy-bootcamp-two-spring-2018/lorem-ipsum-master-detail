@@ -3,7 +3,7 @@ Lorem Ipsum Master Detail
 
 ## Code Wars Challenge
 
-Complete [today's Kata.](https://www.codewars.com/kata/fixme-replace-all-dots)
+Complete [today's Kata.](https://www.codewars.com/kata/my-head-is-at-the-wrong-end)
 
 ## Lab
 
